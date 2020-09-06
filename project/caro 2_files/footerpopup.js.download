@@ -1,0 +1,15 @@
+$(document).ready(function () {
+    $("#feedback_button").click(function () {
+      form();
+    });
+  });
+
+  function form() {
+    $("#LetUsnow").slideToggle();
+  }
+
+
+  $(document).on('click','#closediv',function(){
+    $("#LetUsnow").slideToggle();
+  })
+  

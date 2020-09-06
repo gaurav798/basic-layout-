@@ -1,0 +1,70 @@
+.tr{
+    background-color: rgba(0,0,0,0.2)!important;
+}
+
+.navbar{
+background-color:transparent;
+}
+
+.bgimg{
+    
+    background-image: url("headerimg.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 650px;
+    
+    
+}
+.hearderset{
+    padding-top: 400px;
+    box-sizing: border-box;
+    
+}
+.hearderset h1{
+    font-weight:500;
+    color: #e67e22;
+    
+}
+
+//----------------//
+
+.ourservices{
+    padding: 100px 0px 60px;
+    height: 600px; 
+}
+.rowsetting{
+ margin: 80px 0px !important;
+}
+.ourservices h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.imgsetting{
+    border-radius:20px solid;
+    color: #f39c12;
+   
+}
+/*----------------*/
+.card {
+   
+    border: none;
+}
+
+.card img{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 60px;
+    
+}
+.footer{
+   line-height: 40px;  
+    background-color: #95a5a6;
+}
+.caro{
+    width: 60%;
+}
+.service-footer h2{
+    
+    margin-top: 70px;
+}
